@@ -1,4 +1,4 @@
-# Job Portal
+# Jagadeesh Job Portal
 
 A full-stack recruitment portal starter with a Django REST API and React UI.
 
